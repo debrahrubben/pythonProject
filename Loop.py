@@ -1,7 +1,7 @@
 import time
 
 # while loop
-name = ''
+# name = ''
 # while len(name) == 0:
 #     name = input("Enter your name: ")
 #     print("Hello "+name)
@@ -27,8 +27,13 @@ name = ''
 #         print()
 
 # loop control statement
-while True:
-name = input("Enter your name: ")
-if name != "":
-    break
+# while True:
+#     name = input("Enter your name: ")
+# if name != "":
+#     break
 
+phonenumber = "123-456-789"
+for i in phonenumber:
+    if i == "-":
+        continue
+        print(i)
