@@ -1,4 +1,7 @@
-text = 'did this work too'
+text = 'what about this'
 
-with open('test2.txt', 'w') as file:
+# with open('test2.txt', 'w') as file:
+#     file.write(text)
+
+with open('test2.txt', 'a') as file:
     file.write(text)
