@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d9b976-5e39-4bde-a236-ab444b52910e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/delete file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/messagemodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rockpaperscissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +54,11 @@
     "Python.input.executor": "Run",
     "Python.keyword argument.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.module.executor": "Run",
     "Python.move file.executor": "Run",
     "Python.read file.executor": "Run",
     "Python.return statement.executor": "Run",
+    "Python.rockpaperscissors.executor": "Run",
     "Python.str format.executor": "Run",
     "Python.string slicing.executor": "Run",
     "Python.tuple.executor": "Run",
@@ -70,7 +70,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.module">
+  <component name="RunManager" selected="Python.rockpaperscissors">
     <configuration name="Copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -159,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write a file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rockpaperscissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/write a file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rockpaperscissors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rockpaperscissors" />
         <item itemvalue="Python.module" />
         <item itemvalue="Python.delete file" />
         <item itemvalue="Python.move file" />
         <item itemvalue="Python.Copy" />
-        <item itemvalue="Python.write a file" />
       </list>
     </recent_temporary>
   </component>
