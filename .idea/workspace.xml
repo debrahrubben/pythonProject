@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d9b976-5e39-4bde-a236-ab444b52910e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/method chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super fxn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method chaining.py" beforeDir="false" afterPath="$PROJECT_DIR$/method chaining.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,46 +35,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.2D list.executor": "Run",
-    "Python.Car.executor": "Run",
-    "Python.Copy.executor": "Run",
-    "Python.Logical operator.executor": "Run",
-    "Python.Loop.executor": "Run",
-    "Python.Nested functions.executor": "Run",
-    "Python.OOP.executor": "Run",
-    "Python.delete file.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.exception.executor": "Run",
-    "Python.file.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.helloworld.executor": "Run",
-    "Python.if statements.executor": "Run",
-    "Python.index operator.executor": "Run",
-    "Python.inherritance.executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.keyword argument.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.method overriding.executor": "Run",
-    "Python.module.executor": "Run",
-    "Python.move file.executor": "Run",
-    "Python.read file.executor": "Run",
-    "Python.return statement.executor": "Run",
-    "Python.rockpaperscissors.executor": "Run",
-    "Python.str format.executor": "Run",
-    "Python.string slicing.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.write a file.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.2D list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nested functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.delete file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.index operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inherritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyword argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method chaining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.move file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rockpaperscissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str format.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write a file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.method overriding">
+}</component>
+  <component name="RunManager" selected="Python.method chaining">
     <configuration name="Car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -141,6 +142,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="method chaining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/method chaining.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="method overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -163,35 +186,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rockpaperscissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rockpaperscissors.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.method chaining" />
         <item itemvalue="Python.method overriding" />
         <item itemvalue="Python.inherritance" />
         <item itemvalue="Python.OOP" />
         <item itemvalue="Python.Car" />
-        <item itemvalue="Python.rockpaperscissors" />
       </list>
     </recent_temporary>
   </component>

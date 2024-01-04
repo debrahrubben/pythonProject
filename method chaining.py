@@ -9,4 +9,7 @@ class Car:
         print('you step on the brakes')
         return self
 
-    Car.
+car = Car()
+
+(car.turn_on()
+ .drive())
